@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "导师介绍"
-    url: /publications/
+    url: /selfintro/
 
   - title: "科研项目"
     url: /talks/    
