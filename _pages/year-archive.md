@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /recruit/
 title: "招生信息"
 author_profile: true
 redirect_from:
