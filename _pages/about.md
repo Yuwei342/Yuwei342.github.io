@@ -55,5 +55,5 @@ redirect_from:
 <div style="height: 1em;"></div>
 <div style="color: red; font-weight: bold;">
     我们非常欢迎有责任心、有进取心的学生加入我们，如果你想成为我的研究生或者实习生，请见
-    <a href="https://yuwei342.github.io/year-archive/">招生信息</a>。
+    <a href="https://yuwei342.github.io/recruit/">招生信息</a>。
 </div>
