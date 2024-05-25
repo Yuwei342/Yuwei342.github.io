@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: center;">
-  <p style="font-size: 24px; font-weight: bold;"我们的团队合照：</p>
+  <p> style="font-size: 24px; font-weight: bold;"我们的团队合照：</p>
   <img src="../images/hezhao.png" alt="团队合照" style="width: 50%;">
 </div>
 
