@@ -11,28 +11,25 @@ author_profile: true
 </div>
 
 ## 研究生成员
-<table>
-  <tr>
-    <td>
-      <img src="../images/zhang.png" alt="张文豪" style="width: 100px;">
-    </td>
-    <td style="vertical-align: top;">
-      <p><strong>张文豪</strong><br>
-      西电人工智能学院（研究生）<br>
-      西电计算机科学与计算学院（本科）</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="../images/zhan.png" alt="詹伟" style="width: 100px;">
-    </td>
-    <td style="vertical-align: top;">
-      <p><strong>詹伟</strong><br>
-      西电人工智能学院（研究生）<br>
-      河南理工大学计算机科学与技术（本科）</p>
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/zhang.png" alt="张文豪" style="width: 100px; margin-right: 20px;">
+  <div>
+    <p style="margin: 0;"><strong>张文豪</strong></p>
+    <p style="margin: 0;">西电人工智能学院（研究生）</p>
+    <p style="margin: 0;">西电计算机科学与计算学院（本科）</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="../images/zhan.png" alt="詹伟" style="width: 100px; margin-right: 20px;">
+  <div>
+    <p style="margin: 0;"><strong>詹伟</strong></p>
+    <p style="margin: 0;">西电人工智能学院（研究生）</p>
+    <p style="margin: 0;">河南理工大学计算机科学与技术（本科）</p>
+  </div>
+</div>
+
 
 
 ## 实习生成员
