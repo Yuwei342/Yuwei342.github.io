@@ -43,72 +43,98 @@ author_profile: true
 
 ## 实习生成员
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  <div style="display: flex; align-items: flex-start; margin-right: 20px; margin-bottom: 20px;">
-    <img src="../images/wang.png" alt="王彦鑫" style="width: 100px; margin-right: 10px;">
-    <div>
-      <p style="margin: 0;"><strong>王彦鑫</strong></p>
-      <p style="margin: 0;">大二</p>
-      <p style="margin: 0;">西电人工智能专业</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <div style="flex-basis: 48%; margin-bottom: 20px;">
+    <div style="display: flex; align-items: flex-start;">
+      <img src="../images/wang.png" alt="王彦鑫" style="width: 100px; margin-right: 10px;">
+      <div>
+        <p style="margin: 0;"><strong>王彦鑫</strong></p>
+        <p style="margin: 0;">大二</p>
+        <p style="margin: 0;">西电人工智能专业</p>
+      </div>
     </div>
   </div>
-  <div style="display: flex; align-items: flex-start; margin-right: 20px; margin-bottom: 20px;">
-    <img src="../images/shen.png" alt="沈天扬" style="width: 100px; margin-right: 10px;">
-    <div>
-      <p style="margin: 0;"><strong>沈天扬</strong></p>
-      <p style="margin: 0;">大二</p>
-      <p style="margin: 0;">西电人工智能专业</p>
+
+  <div style="flex-basis: 48%; margin-bottom: 20px;">
+    <div style="display: flex; align-items: flex-start;">
+      <img src="../images/shen.png" alt="沈天扬" style="width: 100px; margin-right: 10px;">
+      <div>
+        <p style="margin: 0;"><strong>沈天扬</strong></p>
+        <p style="margin: 0;">大二</p>
+        <p style="margin: 0;">西电人工智能专业</p>
+      </div>
     </div>
   </div>
-  <div style="display: flex; align-items: flex-start; margin-right: 20px; margin-bottom: 20px;">
-    <img src="../images/li.png" alt="李沛霖" style="width: 100px; margin-right: 10px;">
-    <div>
-      <p style="margin: 0;"><strong>李沛霖</strong></p>
-      <p style="margin: 0;">大二</p>
-      <p style="margin: 0;">西电人工智能专业</p>
+
+  <div style="flex-basis: 48%; margin-bottom: 20px;">
+    <div style="display: flex; align-items: flex-start;">
+      <img src="../images/li.png" alt="李沛霖" style="width: 100px; margin-right: 10px;">
+      <div>
+        <p style="margin: 0;"><strong>李沛霖</strong></p>
+        <p style="margin: 0;">大二</p>
+        <p style="margin: 0;">西电人工智能专业</p>
+      </div>
     </div>
   </div>
-  <div style="display: flex; align-items: flex-start; margin-right: 20px; margin-bottom: 20px;">
-    <img src="../images/huang.png" alt="黄永帅" style="width: 100px; margin-right: 10px;">
-    <div>
-      <p style="margin: 0;"><strong>黄永帅</strong></p>
-      <p style="margin: 0;">大二</p>
-      <p style="margin: 0;">西电人工智能专业</p>
+
+  <div style="flex-basis: 48%; margin-bottom: 20px;">
+    <div style="display: flex; align-items: flex-start;">
+      <img src="../images/huang.png" alt="黄永帅" style="width: 100px; margin-right: 10px;">
+      <div>
+        <p style="margin: 0;"><strong>黄永帅</strong></p>
+        <p style="margin: 0;">大二</p>
+        <p style="margin: 0;">西电人工智能专业</p>
+      </div>
     </div>
   </div>
-  <div style="display: flex; align-items: flex-start; margin-right: 20px; margin-bottom: 20px;">
-    <img src="../images/zhangsheng.png" alt="张晟嘉" style="width: 100px; margin-right: 10px;">
-    <div>
-      <p style="margin: 0;"><strong>张晟嘉</strong></p>
-      <p style="margin: 0;">大三</p>
-      <p style="margin: 0;">西电人工智能专业</p>
+
+  <div style="flex-basis: 48%; margin-bottom: 20px;">
+    <div style="display: flex; align-items: flex-start;">
+      <img src="../images/zhangsheng.png" alt="张晟嘉" style="width: 100px; margin-right: 10px;">
+      <div>
+        <p style="margin: 0;"><strong>张晟嘉</strong></p>
+        <p style="margin: 0;">大三</p>
+        <p style="margin: 0;">西电人工智能专业</p>
+      </div>
     </div>
   </div>
-  <div style="display: flex; align-items: flex-start; margin-right: 20px; margin-bottom: 20px;">
-    <img src="../images/zhao.png" alt="赵渤中" style="width: 100px; margin-right: 10px;">
-    <div>
-      <p style="margin: 0;"><strong>赵渤中</strong></p>
-      <p style="margin: 0;">大二</p>
-      <p style="margin: 0;">西电人工智能专业</p>
+
+  <div style="flex-basis: 48%; margin-bottom: 20px;">
+    <div style="display: flex; align-items: flex-start;">
+      <img src="../images/zhao.png" alt="赵渤中" style="width: 100px; margin-right: 10px;">
+      <div>
+        <p style="margin: 0;"><strong>赵渤中</strong></p>
+        <p style="margin: 0;">大二</p>
+        <p style="margin: 0;">西电人工智能专业</p>
+      </div>
     </div>
   </div>
-  <div style="display: flex; align-items: flex-start; margin-right: 20px; margin-bottom: 20px;">
-    <img src="../images/yining.png" alt="张怡宁" style="width: 100px; margin-right: 10px;">
-    <div>
-      <p style="margin: 0;"><strong>张怡宁</strong></p>
-      <p style="margin: 0;">大二</p>
-      <p style="margin: 0;">西电人工智能专业</p>
+
+  <div style="flex-basis: 48%; margin-bottom: 20px;">
+    <div style="display: flex; align-items: flex-start;">
+      <img src="../images/yining.png" alt="张怡宁" style="width: 100px; margin-right: 10px;">
+      <div>
+        <p style="margin: 0;"><strong>张怡宁</strong></p>
+        <p style="margin: 0;">大二</p>
+        <p style="margin: 0;">西电人工智能专业</p>
+      </div>
     </div>
   </div>
-  <div style="display: flex; align-items: flex-start; margin-right: 20px; margin-bottom: 20px;">
-    <img src="../images/luo.png" alt="罗西洋" style="width: 100px; margin-right: 10px;">
-    <div>
-      <p style="margin: 0;"><strong>罗西洋</strong></p>
-      <p style="margin: 0;">大二</p>
-      <p style="margin: 0;">西电人工智能专业</p>
+
+  <div style="flex-basis: 48%; margin-bottom: 20px;">
+    <div style="display: flex; align-items: flex-start;">
+      <img src="../images/luo.png" alt="罗西洋" style="width: 100px; margin-right: 10px;">
+      <div>
+        <p style="margin: 0;"><strong>罗西洋</strong></p>
+        <p style="margin: 0;">大二</p>
+        <p style="margin: 0;">西电人工智能专业</p>
+      </div>
     </div>
   </div>
+
 </div>
+
 
 
 
