@@ -12,46 +12,34 @@ author_profile: true
 
 ## 发表刊物
 
-1. **C^2N^2: Complex-Valued Contourlet Neural Network**  [Link](https://ieeexplore.ieee.org/abstract/document/10415179/)
-   
+
+1. **[C^2N^2: Complex-Valued Contourlet Neural Network](https://ieeexplore.ieee.org/abstract/document/10415179/)**  
    *M Liu, L Jiao, X Liu, L Li, F Liu, S Yang, Y Guo, P Chen*  
-   *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*  
-   
+   IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
-3. **Transformer meets remote sensing video detection and tracking: A comprehensive survey** [Link](https://ieeexplore.ieee.org/abstract/document/10163641/)
-   
-   *L Jiao, X Zhang, X Liu, F Liu, S Yang, W Ma, L Li, P Chen, Z Feng, Y Guo*  
-   *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*  
+2. **[Transformer meets remote sensing video detection and tracking: A comprehensive survey](https://ieeexplore.ieee.org/abstract/document/10163641/)**  
+   *L Jiao, X Zhang, X Liu, F Liu, S Yang, W Ma, L Li, P Chen, Z Feng, Y Guo, ...*  
+   IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
-
-5. **MinEnt: Minimum entropy for self-supervised representation learning**  [Link](https://www.sciencedirect.com/science/article/pii/S0031320323000651)
-   
+3. **[MinEnt: Minimum entropy for self-supervised representation learning](https://www.sciencedirect.com/science/article/pii/S0031320323000651)**  
    *S Li, F Liu, Z Hao, L Jiao, X Liu, Y Guo*  
-   *Pattern Recognition 138, 109364*  
-   
+   Pattern Recognition 138, 109364
 
-7. **Brain-inspired remote sensing interpretation: A comprehensive survey**  [Link](https://ieeexplore.ieee.org/abstract/document/10049618/)
-   
-   *L Jiao, Z Huang, X Liu, Y Yang, M Ma, J Zhao, C You, B Hou, S Yang*  
-   *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*  
-   
+4. **[Brain-inspired remote sensing interpretation: A comprehensive survey](https://ieeexplore.ieee.org/abstract/document/10049618/)**  
+   *L Jiao, Z Huang, X Liu, Y Yang, M Ma, J Zhao, C You, B Hou, S Yang, ...*  
+   IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
-9. **Cluster alignment with target knowledge mining for unsupervised domain adaptation semantic segmentation**  [Link](https://ieeexplore.ieee.org/abstract/document/9961139/)
-    
+5. **[Cluster alignment with target knowledge mining for unsupervised domain adaptation semantic segmentation](https://ieeexplore.ieee.org/abstract/document/9961139/)**  
    *S Wang, D Zhao, C Zhang, Y Guo, Q Zang, Y Gu, Y Li, L Jiao*  
-   *IEEE Transactions on Image Processing 31, 7403-7418*  
-   
+   IEEE Transactions on Image Processing 31, 7403-7418
 
-11. **Feature split–merge–enhancement network for remote sensing object detection**  [Link](https://ieeexplore.ieee.org/abstract/document/9673713/)
-    
+6. **[Feature split–merge–enhancement network for remote sensing object detection](https://ieeexplore.ieee.org/abstract/document/9673713/)**  
    *W Ma, N Li, H Zhu, L Jiao, X Tang, Y Guo, B Hou*  
-   *IEEE Transactions on Geoscience and Remote Sensing 60, 1-17*  
-   
+   IEEE Transactions on Geoscience and Remote Sensing 60, 1-17
 
-13. **Fuzzy superpixels for polarimetric SAR images classification**  [Link](https://ieeexplore.ieee.org/abstract/document/8310927/)
-    
+7. **[Fuzzy superpixels for polarimetric SAR images classification](https://ieeexplore.ieee.org/abstract/document/8310927/)**  
    *Y Guo, L Jiao, S Wang, S Wang, F Liu, W Hua*  
-   *IEEE Transactions on Fuzzy Systems 26 (5), 2846-2860*
+   IEEE Transactions on Fuzzy Systems 26 (5), 2846-2860
 
    
    
