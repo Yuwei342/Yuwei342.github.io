@@ -41,7 +41,7 @@ author_profile: true
    *Y Guo, L Jiao, S Wang, S Wang, F Liu, W Hua*  
    IEEE Transactions on Fuzzy Systems 26 (5), 2846-2860
 
-   
+   更多发表刊物见[Google Scholar](https://scholar.google.com/citations?user=DR-GIokAAAAJ&hl=en)
    
 
 
