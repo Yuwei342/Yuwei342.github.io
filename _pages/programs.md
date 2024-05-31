@@ -11,9 +11,8 @@ author_profile: true
 
 ## 基于因果信息的半监督图像分类
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="..\images\yinguo1.png" alt="Image 1" style="width: 45%;"/>
-    <img src="..\images\yinguo2.png" alt="Image 2" style="width: 45%;"/>
+<div style="text-align:center;">
+    <img src="..\images\yinguo1.png" alt="Centered Image" style="width: 50%;"/>
 </div>
 
 2018年，图灵奖得主Bengio在ICML会议中指出：可解释因果关系是深度学习发展的当务之急。因果推理被视为深度学习进一步发展的关键技术之一，近年来备受重视。当前深度模型的训练普遍是基于数据建立起输入样本和其所属标签之间的统计相关性。相关性并不总是等于因果性，对于理解和揭示变量之间的因果关系方面存在的局限性可能导致深度模型在面对新数据时产生错误的预测，这限制了模型性能的进一步提升。“采样偏差”导致的目标与背景的相关性不利于模型训练，该问题在有标签数据较少的半监督学习中尤为突出。为了指导半监督模型学习表面的图像与标签之间统计相关性下隐藏的目标与标签的因果性，提出**基于因果干预模块的半监督分类模型**。通过不同范式半监督模型通用的因果干预模块实现因果干预的执行和因果关系的学习，促使模型学习到本质的因果关系，最终实现更优的半监督分类性能。
