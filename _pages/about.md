@@ -33,16 +33,16 @@ redirect_from:
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/cm1.png" class="d-block w-100 image-style" alt="Zhang">
+      <img src="images/cm1.png" class="d-block w-100" style="width: 300px; height: 200px;" alt="Zhang">
     </div>
     <div class="carousel-item">
-      <img src="images/lenet.png" class="d-block w-100 image-style" alt="Guo">
+      <img src="images/lenet.png" class="d-block w-100" style="width: 300px; height: 200px;" alt="Guo">
     </div>
     <div class="carousel-item">
-      <img src="images/lip.png" class="d-block w-100 image-style" alt="Guo">
+      <img src="images/lip.png" class="d-block w-100" style="width: 300px; height: 200px;" alt="Guo">
     </div>
     <div class="carousel-item">
-      <img src="images/yinguo2.png" class="d-block w-100 image-style" alt="Guo">
+      <img src="images/yinguo2.png" class="d-block w-100" style="width: 300px; height: 200px;" alt="Guo">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -55,12 +55,6 @@ redirect_from:
   </a>
 </div>
 
-<style>
-  .image-style {
-    width: 300px; /* 设置图片宽度 */
-    height: auto; /* 保持宽高比 */
-  }
-</style>
 
 
 
